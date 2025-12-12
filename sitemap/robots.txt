@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://kseniamartyniva837-sketch.github.io/мой_сайт/sitemap.xml
